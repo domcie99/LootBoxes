@@ -1,5 +1,5 @@
 # LootBoxes plugins pozwala na tworzenie specjalnego bloku CobbleX, 
-configuracja Config'u pozwala na ustawienie dowolnego przemdiotu wraz z szeregiem opcji z tym zwiączanych.
+configuracja Config'u pozwala na ustawienie dowolnego przedmiotu wraz z szeregiem opcji z tym zwiączanych.
 Ilość przemdiotów jest dowolna, możliwość jest ustawienie szansy na wypadnięcie przedmiotów.
 
 
