@@ -1,0 +1,11 @@
+name: LootBoxes
+main: domcie.lootboxes
+version: 0.1
+author: domcie99
+commands:
+  cobblex: 
+    description: Tworzy CobbleStoneX
+  cx: 
+    description: Tworzy CobbleStoneX
+  test:
+  lootboxes:

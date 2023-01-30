@@ -1,0 +1,30 @@
+cobblex:
+    Name: '&7&lCobble&8&lX'
+    Item: MOSSY_COBBLESTONE
+    Enchant:
+        - unbreaking 10
+    Message: '&7Utworzyles CobbleXa'    
+    MinValue: 1
+    MaxValue: 3 
+    Lore:
+        - 'Postaw na ziemi'
+        - 'Drop z CobbleX pod /lootbox, /lb.'      
+    Items:
+        'Diament':
+            Item: DIAMOND
+            Name: []
+            Lore: []
+            Enchant:
+                - unbreaking 4
+                - sharpness 5
+            MinValue: 1  ###
+            MaxValue: 5  ###Od ilu do ilu przedmiotów dropi
+            Chance: 30
+        'Emerald':
+            Item: EMERALD
+            Name: []
+            Lore: []
+            Enchant: []
+            MinValue: 1
+            MaxValue: 5
+            Chance: 50
